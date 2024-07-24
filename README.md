@@ -12,6 +12,9 @@ This is a modern calculator app built with Jetpack Compose and MVVM architecture
 ## 📸 Screenshots
 
 
+https://github.com/user-attachments/assets/6d4dff49-23a7-450a-85ab-79b979fccac2
+
+
 
 ## 🚀 Installation
 
